@@ -1,2 +1,8 @@
 # Git-Demo
-Created a git demo repositories
+This is a Demo for Git and Github Class
+
+# Teacher
+Sharadha khapra
+
+# Student
+Sadiq Raja
